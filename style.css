@@ -10,7 +10,7 @@ body{
     justify-content:space-between;
 }
 body{
-    min-height: auto;
+    min-height: 100vh;
 }
 header {
     width: auto;
