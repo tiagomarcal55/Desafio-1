@@ -10,10 +10,10 @@ body{
     justify-content:space-between;
 }
 body{
-    min-height: 100vh;
+    min-height: auto;
 }
 header {
-    width: 100vh;
+    width: auto;
     height: 40px;
     background-color: #212121;
 }
@@ -23,7 +23,7 @@ h1 {
     padding: 0px 0px 0px 20px;
 }
 ul {
-    width:calc(auto + 5px);
+    width:(auto);
     display: flex;
     float: right;
    /* margin:7px 7px 1px 7px;*/
