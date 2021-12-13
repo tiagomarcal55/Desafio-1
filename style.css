@@ -53,12 +53,12 @@ main {
     padding: 5vw;
     height: auto;
     display:grid;
-    grid-template-rows: 3fr 1fr;
+    grid-template-rows: 2fr 1fr;
     align-items: center;
 }
 fieldset{
     padding-top: 5vw;
-    height: 70vh;
+    height: auto;
     display:grid;
     grid-template-columns: 1fr 1fr;
     align-items: center;
