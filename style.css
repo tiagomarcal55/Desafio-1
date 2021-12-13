@@ -52,9 +52,6 @@ a {
 main {
     padding: 5vw;
     height: auto;
-    display:grid;
-    grid-template-rows: 2fr 1fr;
-    align-items: center;
 }
 fieldset{
     padding-top: 5vw;
@@ -99,6 +96,10 @@ button{
     color: white;
     width:80px;
     text-align: center;
+}
+section {
+    height:30vh;
+
 }
 footer {
     width: 100vw;
