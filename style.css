@@ -104,7 +104,7 @@ section {
 footer {
     width: 100vw;
     height: 80px;
-    position:absolute;
+    position:static;
     bottom: 0;
     color:white;
     background: #212121;
