@@ -17,19 +17,16 @@ header {
     height: 40px;
     background-color: #212121;
 }
-nav{
-    
-}
 h1 {
     float:left;
     color:white;
     padding: 0px 0px 0px 20px;
 }
 ul {
-    width:calc(auto + 15%);
+    width:calc(auto + 5px);
     display: flex;
     float: right;
-    margin:7px 7px 1px 7px;
+   /* margin:7px 7px 1px 7px;*/
     justify-content: space-around;
 }
 .botao {
