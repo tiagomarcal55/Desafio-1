@@ -26,7 +26,7 @@ ul {
     width:(auto);
     display: flex;
     float: right;
-   /* margin:7px 7px 1px 7px;*/
+    margin:7px 7px 1px 7px;
     justify-content: space-around;
 }
 .botao {
@@ -51,7 +51,10 @@ a {
 
 main {
     padding: 5vw;
-    height: 80%;
+    height: auto;
+    display:grid;
+    grid-template-rows: 3fr 1fr;
+    align-items: center;
 }
 fieldset{
     padding-top: 5vw;
