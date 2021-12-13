@@ -79,8 +79,8 @@ form{
 }
 #email{
     height: 2em;
-    width: 250px;
-    margin: 5px;
+    width: auto;
+    margin: 10px;
     text-align: center;
 }
 label {
