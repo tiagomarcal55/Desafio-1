@@ -75,6 +75,7 @@ form{
     display: flex;
     flex-direction: column;
     align-items: center ;
+    margin: 15px;
 }
 #email{
     height: 2em;
