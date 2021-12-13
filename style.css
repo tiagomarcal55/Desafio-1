@@ -103,6 +103,8 @@ button{
 footer {
     width: 100vw;
     height: 80px;
+    position:absolute;
+    bottom: 0;
     color:white;
     background: #212121;
     margin-top: auto;
